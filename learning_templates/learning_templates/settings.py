@@ -25,7 +25,7 @@ SECRET_KEY = 'pxo-cpr_+m4$9bx^$qae(pntm3cjuzyky&!@@+2dgoo8xpz-n#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['MSBeni.pythonanywhere.com']
 
 
 # Application definition
